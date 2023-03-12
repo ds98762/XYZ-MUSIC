@@ -67,7 +67,7 @@ HELP_3 = """😉<u>ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings, @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
 
 HELP_4 = """😴<u>ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
