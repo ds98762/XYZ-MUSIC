@@ -40,7 +40,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🌹 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 🌹", url=f"https://t.me/dhiman_feelings"
+                text="✨ 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 ✨", url=f"https://t.me/Dairy_dash"
             ),
         ],
         [
@@ -53,7 +53,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"☀ 𝙾𝚆𝙽𝙴𝚁 𝚡𝙳 ☀",
-                url=f"https://t.me/i_dxlvir",
+                url=f"https://t.me/ll_Her_Boy_ll",
             )
         ],
     ]
@@ -74,7 +74,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 🌹", url=f"https://t.me/dhiman_feelings"),
+            InlineKeyboardButton(text="✨ 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 ✨", url=f"https://t.me/Dairy_dash"),
         ],
         [
             InlineKeyboardButton(
@@ -97,7 +97,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 🌹", url=f"https://t.me/dhiman_feelings"),
+            InlineKeyboardButton(text="✨ 𝙵𝙴𝙴𝙻𝙸𝙽𝙶𝚂 ✨", url=f"https://t.me/Dairy_dash"),
         ],
         [
             InlineKeyboardButton(
