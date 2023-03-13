@@ -25,7 +25,7 @@ HELP_1 = """🙄<u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</u>
 /auth [ᴜsᴇʀɴᴀᴍᴇ] : ᴀᴅᴅ ᴀ ᴜsᴇʀ ᴛᴏ ᴀᴜᴛʜ ʟɪsᴛ ᴏғ ᴛʜᴇ ʙᴏᴛ.
 /unauth [ᴜsᴇʀɴᴀᴍᴇ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @Dairy_dash , @ll_Her_Boy_ll."""
 
 
 HELP_2 = """💞<u>ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:</u>
@@ -67,7 +67,7 @@ HELP_3 = """😉<u>ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @Dairy_dash , @ll_Her_Boy_ll."""
 
 HELP_4 = """😴<u>ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
@@ -77,7 +77,7 @@ HELP_4 = """😴<u>ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
 🧐<u>ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs:</u>
 /settings : sʜᴏᴡs ᴛʜᴇ ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ɪɴʟɪɴᴇ ᴍᴇɴᴜ.
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @Dairy_dash , @@ll_Her_Boy_ll."""
 
 HELP_5 = """🥺<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>
 /addsudo [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
@@ -140,7 +140,7 @@ HELP_5 = """🥺<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>
 -nobot : ғᴏʀᴄᴇs ᴛʜᴇ ʙᴏᴛ ᴛᴏ ɴᴏᴛ ʙʀᴏᴀᴅᴄᴀsᴛ ᴛʜᴇ ᴍᴇssᴀɢᴇ..
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @Dairy_dash , @ll_Her_Boy_ll."""
 
 HELP_7 = """💌<u>ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɴᴇᴡ ғᴇᴀᴛᴜʀᴇs:</u>
 
