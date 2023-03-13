@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Best_FriendsFor_Ever")
-                await self.one.join_chat("Star_X_Network")
+                await self.one.join_chat("Night_club_chatting")
+                await self.one.join_chat("Dairy_dash")
             except:
                 pass
             assistants.append(1)
@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("CHATTING_GRUP001")
-                await self.two.join_chat("DHIMAN_FEELINGS")
+                await self.two.join_chat("Night_club_chatting")
+                await self.two.join_chat("Dairy_dash")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Best_FriendsFor_Ever")
-                await self.three.join_chat("Star_X_Network")
+                await self.three.join_chat("Night_club_chatting")
+                await self.three.join_chat("Dairy_dash")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Best_FriendsFor_Ever")
-                await self.four.join_chat("Star_X_Network")
+                await self.four.join_chat("Night_club_chatting")
+                await self.four.join_chat("Dairy_dash")
             except:
                 pass
             assistants.append(4)
