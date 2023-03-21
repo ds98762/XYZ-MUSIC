@@ -50,7 +50,7 @@ force sᴛᴀɴᴅs ғᴏʀ ғᴏʀᴄᴇ ᴩʟᴀʏ.
 /playlist  : ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
 /deleteplaylist : ᴅᴇʟᴇᴛᴇ ᴀɴʏ sᴀᴠᴇᴅ ᴛʀᴀᴄᴋ ɪɴ ʏᴏᴜʀ ᴩʟᴀʏʟɪsᴛ.
 /play  : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @ll_ROYAL_CHATTING_ll , @i_dxlvir."""
 
 
 HELP_3 = """😉<u>ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:</u>
@@ -67,7 +67,7 @@ HELP_3 = """😉<u>ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @ll_ROYAL_CHATTING_ll , @i_dxlvir."""
 
 HELP_4 = """😴<u>ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
@@ -77,7 +77,7 @@ HELP_4 = """😴<u>ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:</u>
 
 🧐<u>ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs:</u>
 /settings : sʜᴏᴡs ᴛʜᴇ ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ɪɴʟɪɴᴇ ᴍᴇɴᴜ.
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @ll_ROYAL_CHATTING_ll , @i_dxlvir."""
 
 HELP_5 = """🥺<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>
 /addsudo [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
@@ -140,7 +140,7 @@ HELP_5 = """🥺<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>
 -nobot : ғᴏʀᴄᴇs ᴛʜᴇ ʙᴏᴛ ᴛᴏ ɴᴏᴛ ʙʀᴏᴀᴅᴄᴀsᴛ ᴛʜᴇ ᴍᴇssᴀɢᴇ..
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
-ᴘᴏᴡʀᴇᴅ © ʙʏ @Dhiman_Feelings , @i_dxlvir."""
+ᴘᴏᴡʀᴇᴅ © ʙʏ @ll_ROYAL_CHATTING_ll , @i_dxlvir."""
 
 HELP_7 = """💌<u>ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɴᴇᴡ ғᴇᴀᴛᴜʀᴇs:</u>
 
